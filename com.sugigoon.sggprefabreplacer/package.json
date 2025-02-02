@@ -1,0 +1,15 @@
+{
+  "name": "com.sugigoon.sggprefabreplacer",
+  "displayName": "SGG Prefab Replacer",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "A Unity editor tool for replacing prefabs in VRChat projects.",
+  "author": {
+    "name": "sugigoon",
+    "email": "sugigoon@gmail.com",
+    "url": "https://sugigoon.booth.pm/"
+  },
+  "dependencies": {},
+  "keywords": ["VRChat", "Editor", "Prefab", "Tools"],
+  "category": "Tools"
+}
